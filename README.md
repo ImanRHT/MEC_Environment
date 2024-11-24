@@ -1,2 +1,9 @@
 # MEC_Environment
-A Realistic Mobile Edge Computing environment; with matacouse conditions for deadline and energy Energy-Constrained
+
+A Realistic simulatation of resource-constrained time-varyaing distribiuted Computing environments, appropriate for Deep Reinforcement learning-based computation offloading algorithm in Internet of Things, Edge and Fog Computing Environments with the following features:  
+* Support multi-user multi-serve systems
+* Support time-sensetive applications
+* Support tasks with prossecing deadline 
+* Dynamic Distributed Clustering
+
+
